@@ -1,10 +1,22 @@
-Données "Saison.txt":
+###########################################################################
+########################## Put sd bar on barplot ##########################
+###########################################################################
 
-	Mars	Septembrediversité.génétique	0.2342	0.311125sd.dg	0.124675	0.097975diversité.haplotypique	0.0006455	0.0001065sd.dh	0.00100925	0.00072425
+# By Pierre-Louis Stenger
+
+############################ Data presentation ############################
+
+Data on the file "Saison.txt":
+
+	Mars	Septembre
+diversite.genetique	0.2342	0.311125
+sd.dg	0.124675	0.097975
+diversite.haplotypique	0.0006455	0.0001065
+sd.dh	0.00100925	0.00072425
 
 
 
-
+############################### R Script ################################
 
 
 #PlotSaison 

@@ -33,3 +33,4 @@ barplot(saison[3,],ylab="Diversité haplotypique",col=c("lightblue", "lightblue"
 segments(marks,saison[3,]-saison[4,], marks,saison[3,]+saison[4,])
 segments(marks-0.1,saison[3,]-saison[4,], marks+0.1,saison[3,]-saison[4,]);segments(marks-0.1,saison[3,]+saison[4,], marks+0.1,saison[3,]+saison[4,])
 
+Teeest

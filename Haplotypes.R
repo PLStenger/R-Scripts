@@ -1,5 +1,5 @@
 ###########################################################################
-############################ Find haplotypes#### ##########################
+############################ Find haplotypes ##############################
 ###########################################################################
 
 # By Pierre-Louis Stenger
@@ -40,9 +40,8 @@ ACCAACAGGTGTTATTTAATTA
 
 ############################### R Script ################################
 
-
-# Connaître le nombre d'haplotypes et quels individus en sont porteurs:
 # To know the number of haplotypes and which individuals carry them:
+# Connaître le nombre d'haplotypes et quels individus en sont porteurs:
 
 library(pegas)
 ttr = read.dna("Alignement.fas", format="fasta")
